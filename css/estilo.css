@@ -1,0 +1,42 @@
+  #slide{
+  	margin-top: -5px;
+  	width: 900px;
+  	height: 250;
+  }
+
+
+  }
+
+  }
+  .parrafo{
+  	color: #707070;
+  	text-align: justify;
+  }
+
+  }
+#info{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #c0c0c0;
+	margin-top: 10px;
+}
+ 
+}
+.img{
+	margin-right: 7px;
+}
+
+#der{
+	width: 326px;
+	height: 290px;
+	border: 1px solid #ccc;
+	float: right; 
+}
+footer{
+	width: 900px;
+	height: 100px;
+	text-align: center;	
+}
+  #footer p{
+  	width: 500px;
+  }
